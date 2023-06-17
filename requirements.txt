@@ -6,3 +6,4 @@ ipywidgets
 ipympl
 seaborn
 plotly
+tqdm
